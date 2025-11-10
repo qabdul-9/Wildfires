@@ -1,6 +1,7 @@
 # Wildfires
 
-## CPSC Events
+## Projects in Order of Priority
+### CPSC Events
 
 Create an app where CS/CIS/BINF majors, minors, and faculty can create, edit, remove, list, search, RSVP, and get alerts for events based on their profile.
 
@@ -13,3 +14,5 @@ Create an app where CS/CIS/BINF majors, minors, and faculty can create, edit, re
 ## CPSC Register
 
 ## CPSC Study Buddies
+
+
